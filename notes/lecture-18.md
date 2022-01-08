@@ -4,7 +4,7 @@
 **Ans**: A Higher-order functions are functions that take other functions as arguments or return functions as their results. Eg: 
 ```js
 function x() {
-    console.log("Hi)";
+    console.log("Hi");
 };
 function y(x) {
     x();
